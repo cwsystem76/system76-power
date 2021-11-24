@@ -1,3 +1,10 @@
+system76-power (1.1.21) focal; urgency=medium
+
+  * Preserve video memory allocations during sleep
+  * Install files to vendor locations
+
+ -- Tim Crawford <tcrawford@system76.com>  Wed, 24 Nov 2021 10:27:31 -0700
+
 system76-power (1.1.20) focal; urgency=medium
 
   * Add hot plug detection for AMD+NVIDIA systems
